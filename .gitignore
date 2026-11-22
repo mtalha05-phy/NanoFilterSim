@@ -1,0 +1,16 @@
+build/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.asv
+
+# generated validation outputs (regenerate with tools/run_all_tests.sh); the report itself is tracked
+results/validation/python/*.csv
+results/validation/cpp/*.csv
+results/validation/matlab/*.csv
