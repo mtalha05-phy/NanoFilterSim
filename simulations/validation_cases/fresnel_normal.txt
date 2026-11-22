@@ -1,0 +1,6 @@
+name fresnel_normal
+incident air
+substrate const:1.5
+polarization TE
+theta 0
+wavelength 450 800 351

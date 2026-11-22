@@ -1,0 +1,7 @@
+name absorbing_layer_TM_40
+incident air
+substrate SiO2
+polarization TM
+theta 40
+wavelength 450 800 351
+layer const:2.4,0.05 100

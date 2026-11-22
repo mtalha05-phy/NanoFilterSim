@@ -1,0 +1,7 @@
+name frustrated_tir_TM_50
+incident const:1.5
+substrate const:1.5
+polarization TM
+theta 50
+wavelength 450 800 351
+layer air 100

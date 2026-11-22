@@ -1,0 +1,6 @@
+name tir_prism_TM_60
+incident const:1.5
+substrate air
+polarization TM
+theta 60
+wavelength 450 800 351

@@ -1,0 +1,7 @@
+name single_layer_TM_30
+incident air
+substrate SiO2
+polarization TM
+theta 30
+wavelength 450 800 351
+layer const:2.1 80

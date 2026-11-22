@@ -1,0 +1,7 @@
+name thick_absorber_TE_0
+incident air
+substrate SiO2
+polarization TE
+theta 0
+wavelength 450 800 351
+layer const:2.0,0.5 5000
